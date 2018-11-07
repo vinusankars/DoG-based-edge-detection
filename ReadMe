@@ -1,0 +1,16 @@
+====READ ME=====
+----------------
+
+Please use Python 3.6 environment to run the programs.
+Dependencies are numpy and cv2 modules for Python.
+Image file used is actual.png in the same directory.
+The source file for Q1 is A1Q1.py and that for Q2 is A1Q2.py.
+
+To get results of Q1 and Q2, please run:
+$ python3 A1Q1.py
+$ python3 A1Q2.py
+in terminal, respectively.
+
+Result Images folder has all resulting images of the program.
+Assignment1.pdf is the report.
+sample.jpg is used for testing all codes (after being grayscaled and resized).
